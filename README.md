@@ -182,5 +182,5 @@ pip install jedi
 
 📌 Creado por **Ramarak**  
 
-Si te gusta este proyecto, ⭐ ¡dale un star en GitHub! 🚀
+Si te gusta este proyecto, ⭐ ¡dale una estrella en GitHub! 🚀
 
